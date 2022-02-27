@@ -1,1 +1,1 @@
-# dummy-repo
+# Repository just for testing
